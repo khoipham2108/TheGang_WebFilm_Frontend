@@ -196,7 +196,7 @@ const Header: React.FC = () => {
             {/* Logo */}
             <Link style={{ marginRight: 24, marginTop: ".5rem" }} to="/" className="flex-shrink-0 transition-transform duration-200 hover:scale-105">
               <img 
-                src="assets/Images/LogoTest.png"
+                src="images/MainLogo.png"
                 className="h-8 lg:h-20 w-auto object-contain" 
                 alt="The Gang Logo" 
               />
